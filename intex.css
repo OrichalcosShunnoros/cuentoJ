@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Dosis', sans-serif;
-    font-size: 20px;
+
     /* background-color: #00490b; */
     /* background-color: black; */
 }
@@ -11,7 +11,7 @@
 
 
 html{
-    font-size: 10px;
+    font-size: 10git px;
     background: black;
 }
 
@@ -25,17 +25,13 @@ h1{
     /* background-color: #0B3B24; */
 
     
-    width: auto;
-    margin-top: 15px;
-    text-align: center;
-    font-size: 1.9rem;
 
 }
 
 
 
 p{
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
 
 header{
@@ -93,7 +89,7 @@ header{
 }
 
 .cuento h2{
-    font-size: 3rem;
+    font-size: 5rem;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -106,6 +102,7 @@ header{
     margin: 2rem 0;
     background-color: #0B3B24;
     text-align: justify;
+    font-size: 20px;
 }
 
 article{
