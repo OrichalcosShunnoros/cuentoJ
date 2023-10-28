@@ -99,7 +99,8 @@ header{
 }
 
 .cuento p{
-    color: rgb(0, 255, 55);
+    /* color: rgb(0, 255, 55); */
+    color: white;
     margin: 2rem 0;
     background-color: #0B3B24;
     text-align: justify;
