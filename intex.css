@@ -2,10 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'poppins', sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
     /* background-color: #00490b; */
     /* background-color: black; */
 }
+
+
 
 html{
     font-size: 10px;
