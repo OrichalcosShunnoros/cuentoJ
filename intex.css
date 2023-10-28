@@ -4,11 +4,12 @@
     box-sizing: border-box;
     font-family: 'poppins', sans-serif;
     /* background-color: #00490b; */
-    background-color: black;
+    /* background-color: black; */
 }
 
 html{
     font-size: 10px;
+    background: black;
 }
 
 h1{
@@ -48,15 +49,17 @@ header{
     max-width: 100rem;
     margin: 0 auto;
     
+    
 }
 
 .hero{
     max-width: 114rem;
     height: 40rem;
-    background: url(../cuento/lights-890404_1280.jpg) 
+    background: url(https://c8.alamy.com/zoomses/9/2b852818c44c44e79f03cb3ccad02ea4/b2ykkg.jpg) 
                 no-repeat center center / cover;
     margin: 5rem auto;
     box-shadow: 5px 5px 15px black;
+    border-radius: 2rem;
     
 
 
@@ -69,12 +72,13 @@ header{
     background-color: #0B3B24;
     margin: 0 auto;
     padding: 5rem;
-    border-radius: 1.5rem;
+    border-radius: 2rem;
     margin-top: -15rem;
     /* box-shadow: 5px 5px 15px black; */
     box-shadow: 0 0 5px rgb(0, 255, 55), 
                 0 0 25px rgb(0, 255, 55);
     color: rgb(0, 255, 55);
+    
 }
 
 .cuento:hover{
