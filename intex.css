@@ -55,7 +55,7 @@ header{
 .hero{
     max-width: 114rem;
     height: 40rem;
-    background: url(https://c8.alamy.com/zoomses/9/2b852818c44c44e79f03cb3ccad02ea4/b2ykkg.jpg) 
+    background: url("https://c8.alamy.com/zoomses/9/2b852818c44c44e79f03cb3ccad02ea4/b2ykkg.jpg") 
                 no-repeat center center / cover;
     margin: 5rem auto;
     box-shadow: 5px 5px 15px black;
