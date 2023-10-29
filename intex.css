@@ -139,7 +139,6 @@ article{
     background-color: #0B3B24;
     margin: 3rem 0;
     padding: 3rem 0;
-
 }
 
 article h2{
@@ -147,25 +146,11 @@ article h2{
     background-color: #0B3B24;
     text-align: center;
     color: rgb(0, 255, 55);
-    animation: animate .6s linear infinite;
-    width: 20%;
 }
 
-@keyframes animate {
-    0%{
-        transform: scale(1.07);
-    }
-    80%{
-        transform: scale(1.0);
-    }
-    100%{
-        transform: scale(0.8);
-    }
-}
 
 footer{
     text-align: center;
-    
 }
 
 footer p{
