@@ -22,7 +22,8 @@ h1{
     background-color: #0B3B24;
     /* color: #0B610B; */
     /* background-color: #0B3B24; */
-    animation: teclear 5s steps(24), efecto .5s step-end infinite;
+    animation: teclear 5s steps(24), efecto 5s;
+    animation-iteration-count: infinite;
 }
 
 @keyframes teclear{
