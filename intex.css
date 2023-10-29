@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Dosis', sans-serif;
-
     /* background-color: #00490b; */
     /* background-color: black; */
 }
@@ -23,9 +22,6 @@ h1{
     background-color: #0B3B24;
     /* color: #0B610B; */
     /* background-color: #0B3B24; */
-
-    
-
 }
 
 
@@ -47,8 +43,6 @@ header{
     width: 96%;
     max-width: 100rem;
     margin: 0 auto;
-    
-    
 }
 
 .hero{
@@ -59,10 +53,6 @@ header{
     margin: 5rem auto;
     box-shadow: 5px 5px 15px black;
     border-radius: 2rem;
-    
-
-
-    
 }
 
 .cuento{
@@ -70,14 +60,13 @@ header{
     max-width: 80rem;
     background-color: #0B3B24;
     margin: 0 auto;
-    padding: 3rem;
+    padding: 1.9rem;
     border-radius: 2rem;
     margin-top: -15rem;
     /* box-shadow: 5px 5px 15px black; */
     box-shadow: 0 0 5px rgb(0, 255, 55), 
                 0 0 25px rgb(0, 255, 55);
     color: rgb(0, 255, 55);
-    
 }
 
 .cuento:hover{
